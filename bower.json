@@ -1,0 +1,26 @@
+{
+  "name": "learn-angularjs-coffescript-authentication",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jasonrey/learn-angularjs-coffescript-authentication",
+  "authors": [
+    "Jason Rey <jasonrey@outlook.com>"
+  ],
+  "description": "Login/Registration page using AngularJS and CoffeeScript.",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.9",
+    "bootstrap": "~3.3.2",
+    "fontawesome": "~4.2.0",
+    "angular-route": "~1.3.9",
+    "less": "~2.2.0",
+    "coffee-script": "~1.8.0"
+  }
+}
